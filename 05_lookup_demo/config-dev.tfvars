@@ -1,6 +1,6 @@
 tags = {
   terraformDeployment = "true",
-  GithubRepo          = "https://github.com/Pwd9000-ML/Azure-Terraform-Deployments"
+  GithubRepo          = "https://github.com/mangobbt/terrafromgithubactions"
   Environment         = "DEV"
 }
 
